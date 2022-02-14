@@ -20,4 +20,12 @@ let className = document.getElementsByClassName("food");
 
 
 
+// let firstname = "Davidson";
+// let lastname = "Jose";
+
+// let concatenation = `${firstname} ${lastname}`;
+// console.log(concatenation);
+
+
+
 
