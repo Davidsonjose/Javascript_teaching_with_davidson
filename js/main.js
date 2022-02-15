@@ -190,7 +190,7 @@ if (time > 12) {
 } else if (time < 12) {
   alert("good afternoon");
 } else {
-  alert("hello boy");
+  alert("hello boy")
 }
 
 //TODO create an even numbers using while loops

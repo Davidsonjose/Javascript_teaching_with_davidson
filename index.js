@@ -11,3 +11,6 @@ function yearOfBirth(yearOfBirth) {
 }
 let result = yearOfBirth(50);
 console.log(result);
+
+
+// console.log(randomBytes(8)); 
